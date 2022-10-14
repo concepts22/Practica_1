@@ -1,0 +1,9 @@
+numpy
+jupyter
+matplotlib
+networkx
+qpsolvers
+ipythonblocks
+sortedcontainers
+pandas
+scipy
